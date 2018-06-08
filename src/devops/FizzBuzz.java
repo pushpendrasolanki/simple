@@ -63,7 +63,7 @@ public class FizzBuzz {
                 }
                 else if(number<0 || number>=1000)
                 {
-                    System.out.println("Invalid number, how dare you to enter wrong input");
+                    System.out.println("Invalid number, how dare you to enter wrong");
                     return;
                 }
                 else{
